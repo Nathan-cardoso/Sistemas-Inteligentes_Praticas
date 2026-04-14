@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 
 # Regressão Linear 
-Como primeiro projeto da disciplina, a pasta [Regressão Linear](https://github.com/Nathan-cardoso/Sistemas-Inteligentes_Praticas/tree/main/Regrecao_Linear) contém o código, aplicado para o problema sugerido pelo professor, além do artefato do problema.
+Como primeiro projeto da disciplina, a pasta [Regressão Linear](https://github.com/Nathan-cardoso/Sistemas-Inteligentes_Praticas/tree/main/Regressao_Linear) contém o código, aplicado para o problema sugerido pelo professor, além do artefato do problema.
 
 # Equipe
 <table align="center">
